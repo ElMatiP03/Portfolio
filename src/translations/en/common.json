@@ -1,0 +1,20 @@
+{
+  "welcome": {
+    "title": "Welcome to {{framework}}"
+  },
+  "barraLateral": {
+    "titleDescription": "Junior developer",
+    "contact": "Contact",
+    "calendly": "Schedule a meeting",
+    "download": "Download Resume"
+  },
+  "barraCental": {
+    "summary": "SUMMARY",
+    "workexperience": "WORK EXPERIENCE",
+    "education": "EDUCATION"
+  },
+  "summary": "Junior developer. With knowledge of user interfaces. Providing experience in web page design. Proficient in a variety of technologies, such as .NET/.NET Core, C#, ReactJS, HTML, CSS, XML, Json, and MariaDB. Able to effectively self-manage on independent projects, as well as collaborate in a team environment.",
+  "common": {
+    "client": "cliente: "
+  }
+}
