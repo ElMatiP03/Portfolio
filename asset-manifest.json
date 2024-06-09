@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//elmatip03.github.io/Portfolio/static/css/main.652a40b7.css",
+    "main.js": "//elmatip03.github.io/Portfolio/static/js/main.945cef25.js",
+    "static/media/profilePic.jpg": "//elmatip03.github.io/Portfolio/static/media/profilePic.aca7c4ab0541d2dbbe06.jpg",
+    "index.html": "//elmatip03.github.io/Portfolio/index.html",
+    "main.652a40b7.css.map": "//elmatip03.github.io/Portfolio/static/css/main.652a40b7.css.map",
+    "main.945cef25.js.map": "//elmatip03.github.io/Portfolio/static/js/main.945cef25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.652a40b7.css",
+    "static/js/main.945cef25.js"
+  ]
+}
