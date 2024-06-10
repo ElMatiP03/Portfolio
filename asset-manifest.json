@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53d6c59f.css",
+    "main.js": "/static/js/main.0a525c85.js",
+    "static/media/NuevoLogo-Azul.png": "/static/media/NuevoLogo-Azul.4097c55ec5e1c728b617.png",
+    "static/media/profilePic.jpg": "/static/media/profilePic.88afe332a946343dcedf.jpg",
+    "static/media/React.png": "/static/media/React.8a6fc0a24a800d1e0f4a.png",
+    "static/media/Godot.png": "/static/media/Godot.e71420dd55a65646652e.png",
+    "static/media/c-sharp.png": "/static/media/c-sharp.8c8004b3ddc0b4d510bb.png",
+    "index.html": "/index.html",
+    "main.53d6c59f.css.map": "/static/css/main.53d6c59f.css.map",
+    "main.0a525c85.js.map": "/static/js/main.0a525c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53d6c59f.css",
+    "static/js/main.0a525c85.js"
+  ]
+}
